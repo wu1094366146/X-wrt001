@@ -21,7 +21,7 @@ on:
 
 env:
   REPO_URL: https://github.com/wu1094366146/x-wrt
-  REPO_BRANCH: master
+  REPO_BRANCH: 21.10
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: mini.config
   DIY_P1_SH: diy-part1.sh
